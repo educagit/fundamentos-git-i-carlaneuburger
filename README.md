@@ -23,5 +23,5 @@ Para cada comando utilizado, procure anotar separadamente, para depois poder com
 - [Vídeo sobre os fundamentos de branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q)
 
 
-substitua essa frase pela imagem do octocat
+![mona-lovelace](https://user-images.githubusercontent.com/94203478/172159434-b2c24199-ba35-43e7-974b-522ff20f7150.jpg)
 
